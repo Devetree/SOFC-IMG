@@ -1,0 +1,838 @@
+
+ TPB points = 1933 
+TPB density in micrometers^-2 = 5.112066e+00 
+
+Average YSZ contact angle in degrees = 1.097009e+02 
+Average Ni contact angle in degrees = 1.431226e+02 
+Average Pore contact angle in degrees = 1.071765e+02 
+
+ TPB points = 625 
+TPB density in micrometers^-2 = 6.563747e+00 
+
+Average YSZ contact angle in degrees = 8.723547e+01 
+Average Ni contact angle in degrees = 1.401049e+02 
+Average Pore contact angle in degrees = 1.326597e+02 
+
+ TPB points = 356 
+TPB density in micrometers^-2 = 3.738710e+00 
+
+Average YSZ contact angle in degrees = 9.933914e+01 
+Average Ni contact angle in degrees = 1.370122e+02 
+Average Pore contact angle in degrees = 1.236487e+02 
+
+ TPB points = 1506 
+TPB density in micrometers^-2 = 3.982810e+00 
+
+Average YSZ contact angle in degrees = 1.075728e+02 
+Average Ni contact angle in degrees = 1.461941e+02 
+Average Pore contact angle in degrees = 1.062331e+02 
+
+ TPB points = 109 
+TPB density in micrometers^-2 = 1.144717e+00 
+
+Average YSZ contact angle in degrees = 8.019714e+01 
+Average Ni contact angle in degrees = 1.380109e+02 
+Average Pore contact angle in degrees = 1.417920e+02 
+
+ TPB points = 80 
+TPB density in micrometers^-2 = 8.401596e-01 
+
+Average YSZ contact angle in degrees = 1.135831e+02 
+Average Ni contact angle in degrees = 1.350200e+02 
+Average Pore contact angle in degrees = 1.113969e+02 
+
+ TPB points = 577 
+TPB density in micrometers^-2 = 1.525950e+00 
+
+Average YSZ contact angle in degrees = 1.462142e+02 
+Average Ni contact angle in degrees = 9.973703e+01 
+Average Pore contact angle in degrees = 1.140487e+02 
+
+ TPB points = 1209 
+TPB density in micrometers^-2 = 1.269691e+01 
+
+Average YSZ contact angle in degrees = 8.583689e+01 
+Average Ni contact angle in degrees = 1.393342e+02 
+Average Pore contact angle in degrees = 1.348289e+02 
+
+ TPB points = 772 
+TPB density in micrometers^-2 = 8.107540e+00 
+
+Average YSZ contact angle in degrees = 8.625246e+01 
+Average Ni contact angle in degrees = 1.420742e+02 
+Average Pore contact angle in degrees = 1.316733e+02 
+
+ TPB points = 730 
+TPB density in micrometers^-2 = 7.666457e+00 
+
+Average YSZ contact angle in degrees = 8.937179e+01 
+Average Ni contact angle in degrees = 1.451288e+02 
+Average Pore contact angle in degrees = 1.254994e+02 
+
+ TPB points = 899 
+TPB density in micrometers^-2 = 9.721021e+00 
+
+Average YSZ contact angle in degrees = 8.087377e+01 
+Average Ni contact angle in degrees = 1.433144e+02 
+Average Pore contact angle in degrees = 1.358119e+02 
+
+ TPB points = 754 
+TPB density in micrometers^-2 = 7.918505e+00 
+
+Average YSZ contact angle in degrees = 9.396675e+01 
+Average Ni contact angle in degrees = 1.387728e+02 
+Average Pore contact angle in degrees = 1.272605e+02 
+
+Volume fractions after Otsu,s method 
+V_pore = 2.083626e-01 
+V_YSZ = 5.365067e-01 
+V_Ni = 2.551308e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.446747e-01 
+V_YSZ = 5.001945e-01 
+V_Ni = 2.551308e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.446747e-01 
+V_YSZ = 4.299774e-01 
+V_Ni = 3.253479e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 2.377625e-01 
+V_YSZ = 4.348907e-01 
+V_Ni = 3.273468e-01 
+
+ TPB points = 284 
+TPB density in micrometers^-2 = 7.510744e-01 
+
+Average YSZ contact angle in degrees = 1.215858e+02 
+Average Ni contact angle in degrees = 1.428695e+02 
+Average Pore contact angle in degrees = 9.554472e+01 
+
+Volume fractions after Otsu,s method 
+V_pore = 2.083626e-01 
+V_YSZ = 5.365067e-01 
+V_Ni = 2.551308e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.446747e-01 
+V_YSZ = 5.001945e-01 
+V_Ni = 2.551308e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.446747e-01 
+V_YSZ = 4.299774e-01 
+V_Ni = 3.253479e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 2.377625e-01 
+V_YSZ = 4.348907e-01 
+V_Ni = 3.273468e-01 
+
+ TPB points = 284 
+TPB density in micrometers^-2 = 7.510744e-01 
+
+Average YSZ contact angle in degrees = 1.215858e+02 
+Average Ni contact angle in degrees = 1.428695e+02 
+Average Pore contact angle in degrees = 9.554472e+01 
+
+Volume fractions after Otsu,s method 
+V_pore = 2.083626e-01 
+V_YSZ = 5.365067e-01 
+V_Ni = 2.551308e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.446747e-01 
+V_YSZ = 5.001945e-01 
+V_Ni = 2.551308e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.446747e-01 
+V_YSZ = 4.299774e-01 
+V_Ni = 3.253479e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 2.377625e-01 
+V_YSZ = 4.348907e-01 
+V_Ni = 3.273468e-01 
+
+ TPB points = 284 
+TPB density in micrometers^-2 = 7.510744e-01 
+
+Average YSZ contact angle in degrees = 1.215858e+02 
+Average Ni contact angle in degrees = 1.428695e+02 
+Average Pore contact angle in degrees = 9.554472e+01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.479294e-01 
+V_YSZ = 5.520706e-01 
+V_Ni = 0 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 0 
+V_YSZ = 1 
+V_Ni = 0 
+
+Volume fractions after Otsu,s method 
+V_pore = 2.003479e-01 
+V_YSZ = 4.486809e-01 
+V_Ni = 3.509712e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.396812e-01 
+V_YSZ = 4.093475e-01 
+V_Ni = 3.509712e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.396812e-01 
+V_YSZ = 3.511086e-01 
+V_Ni = 4.092102e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 2.364693e-01 
+V_YSZ = 3.532677e-01 
+V_Ni = 4.102631e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 1.314392e-01 
+V_YSZ = 2.877502e-01 
+V_Ni = 5.808105e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.397423e-01 
+V_YSZ = 1.794472e-01 
+V_Ni = 5.808105e-01 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 2.397423e-01 
+V_YSZ = 1.794472e-01 
+V_Ni = 5.808105e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 2.963028e-01 
+V_YSZ = 4.634399e-01 
+V_Ni = 2.402573e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.249298e-01 
+V_YSZ = 5.348129e-01 
+V_Ni = 2.402573e-01 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 2.249298e-01 
+V_YSZ = 5.348129e-01 
+V_Ni = 2.402573e-01 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 9.321976e-02 
+V_YSZ = 7.024002e-02 
+V_Ni = 8.365402e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 9.321976e-02 
+V_YSZ = 9.494781e-03 
+V_Ni = 8.972855e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 8.727264e-02 
+V_YSZ = 1.180267e-02 
+V_Ni = 9.009247e-01 
+
+SOFC Image properties 
+Total line length in pixels = 1.517935e+05 
+Total line length in micrometers = 4.091310e+03 
+Ni particle numbers = 1442 
+YSZ particle numbers = 271 
+Ni particle size = 3.834219e+00 
+YSZ particle size = 2.672789e-01 
+
+Surface area of Ni = 1.197807e+00 
+Surface area of YSZ = 1.827254e-01 
+Surface area of Pore = 8.583050e-01 
+
+Surface area of Ni-YSZ interface in micrometers square = 2.611136e-01 
+Surface area of Ni-Pore interface in micrometers square = 9.366932e-01 
+Surface area of YSZ-Pore interface in micrometers square = -7.838813e-02 
+
+ TPB points = 393 
+TPB density in micrometers^-2 = 4.127284e+00 
+
+Average YSZ contact angle in degrees = 4.873729e+01 
+Average Ni contact angle in degrees = 1.700937e+02 
+Average Pore contact angle in degrees = 1.559976e+02 
+
+Volume fractions after Otsu,s method 
+V_pore = 2.262573e-01 
+V_YSZ = 4.600563e-01 
+V_Ni = 3.136864e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.374725e-01 
+V_YSZ = 4.488411e-01 
+V_Ni = 3.136864e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.374725e-01 
+V_YSZ = 1.837769e-01 
+V_Ni = 5.787506e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 1.483269e-01 
+V_YSZ = 3.734245e-01 
+V_Ni = 4.782486e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.314720e-01 
+V_YSZ = 2.902794e-01 
+V_Ni = 4.782486e-01 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 2.314720e-01 
+V_YSZ = 2.902794e-01 
+V_Ni = 4.782486e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.314720e-01 
+V_YSZ = 3.615570e-02 
+V_Ni = 7.323723e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 2.071342e-01 
+V_YSZ = 3.703690e-02 
+V_Ni = 7.558289e-01 
+
+SOFC Image properties 
+Total line length in pixels = 1.427051e+05 
+Total line length in micrometers = 3.846348e+03 
+Ni particle numbers = 5824 
+YSZ particle numbers = 640 
+Ni particle size = 7.487589e-01 
+YSZ particle size = 3.338831e-01 
+
+Surface area of Ni = 5.252185e+00 
+Surface area of YSZ = 5.625925e-01 
+Surface area of Pore = 4.423433e+00 
+
+Surface area of Ni-YSZ interface in micrometers square = 6.956722e-01 
+Surface area of Ni-Pore interface in micrometers square = 4.556513e+00 
+Surface area of YSZ-Pore interface in micrometers square = -1.330796e-01 
+
+ TPB points = 437 
+TPB density in micrometers^-2 = 4.589372e+00 
+
+Average YSZ contact angle in degrees = 1.258507e+02 
+Average Ni contact angle in degrees = 1.444617e+02 
+Average Pore contact angle in degrees = 9.777835e+01 
+
+Volume fractions after Otsu,s method 
+V_pore = 1.483269e-01 
+V_YSZ = 3.734245e-01 
+V_Ni = 4.782486e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.314720e-01 
+V_YSZ = 2.902794e-01 
+V_Ni = 4.782486e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.314720e-01 
+V_YSZ = 3.615570e-02 
+V_Ni = 7.323723e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 1.969948e-01 
+V_YSZ = 3.597794e-01 
+V_Ni = 4.432259e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 1.969948e-01 
+V_YSZ = 3.597794e-01 
+V_Ni = 4.432259e-01 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 1.969948e-01 
+V_YSZ = 3.597794e-01 
+V_Ni = 4.432259e-01 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 9.038544e-02 
+V_YSZ = 9.095955e-01 
+V_Ni = 1.907349e-05 
+
+Volume fractions after the sweep fill operation 
+V_pore = 9.038544e-02 
+V_YSZ = 9.095955e-01 
+V_Ni = 1.907349e-05 
+
+Volume fractions after erosion and dilation 
+V_pore = 7.862091e-02 
+V_YSZ = 9.213600e-01 
+V_Ni = 1.907349e-05 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 0 
+V_YSZ = 4.081268e-01 
+V_Ni = 5.918732e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.081268e-01 
+V_YSZ = 4.231186e-01 
+V_Ni = 1.687546e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 4.081268e-01 
+V_YSZ = 4.231186e-01 
+V_Ni = 1.687546e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 4.081268e-01 
+V_YSZ = 4.085999e-01 
+V_Ni = 1.832733e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 4.078217e-01 
+V_YSZ = 4.084129e-01 
+V_Ni = 1.837654e-01 
+
+SOFC Image properties 
+Total line length in pixels = 1.449767e+05 
+Total line length in micrometers = 3.907576e+03 
+Ni particle numbers = 2790 
+YSZ particle numbers = 1934 
+Ni particle size = 3.860630e-01 
+YSZ particle size = 1.237775e+00 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.186165e-01 
+V_YSZ = 5.879593e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 4.219055e-01 
+V_YSZ = 3.846703e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.424812e-01 
+V_YSZ = 5.640945e-01 
+V_Ni = 1.934242e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.424812e-01 
+V_YSZ = 5.122375e-02 
+V_Ni = 7.062950e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 7.146072e-02 
+V_YSZ = 1.220016e-01 
+V_Ni = 8.065376e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 3.991203e-01 
+V_YSZ = 4.004440e-01 
+V_Ni = 2.004356e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.488823e-01 
+V_YSZ = 5.506821e-01 
+V_Ni = 2.004356e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.488823e-01 
+V_YSZ = 4.669189e-02 
+V_Ni = 7.044258e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 4.384613e-02 
+V_YSZ = 1.089516e-01 
+V_Ni = 8.472023e-01 
+
+SOFC Image properties 
+Total line length in pixels = 1.438041e+05 
+Total line length in micrometers = 3.875970e+03 
+Ni particle numbers = 3150 
+YSZ particle numbers = 3477 
+Ni particle size = 1.563681e+00 
+YSZ particle size = 1.821799e-01 
+
+ TPB points = 2030 
+TPB density in micrometers^-2 = 2.131905e+01 
+
+Average YSZ contact angle in degrees = 1.025651e+02 
+Average Ni contact angle in degrees = 2.178800e+02 
+Average Pore contact angle in degrees = 7.218215e+01 
+
+Volume fractions after Otsu,s method 
+V_pore = 1.483269e-01 
+V_YSZ = 3.734245e-01 
+V_Ni = 4.782486e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.314720e-01 
+V_YSZ = 2.902794e-01 
+V_Ni = 4.782486e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.314720e-01 
+V_YSZ = 3.615570e-02 
+V_Ni = 7.323723e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 2.071342e-01 
+V_YSZ = 3.703690e-02 
+V_Ni = 7.558289e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 1.300240e-01 
+V_YSZ = 4.061508e-02 
+V_Ni = 8.293610e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 1.300240e-01 
+V_YSZ = 4.061508e-02 
+V_Ni = 8.293610e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 1.701355e-01 
+V_YSZ = 3.643608e-01 
+V_Ni = 4.655037e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.356339e-01 
+V_YSZ = 2.988625e-01 
+V_Ni = 4.655037e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.356339e-01 
+V_YSZ = 1.692581e-02 
+V_Ni = 7.474403e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 1.790657e-01 
+V_YSZ = 3.184891e-02 
+V_Ni = 7.890854e-01 
+
+Surface area of Ni = 2.690245e+00 
+Surface area of YSZ = 2.581763e+00 
+Surface area of Pore = 1.075810e+00 
+
+Surface area of Ni-YSZ interface in micrometers square = 2.098099e+00 
+Surface area of Ni-Pore interface in micrometers square = 5.921458e-01 
+Surface area of YSZ-Pore interface in micrometers square = 4.836638e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 1.314392e-01 
+V_YSZ = 2.877502e-01 
+V_Ni = 5.808105e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.397423e-01 
+V_YSZ = 1.794472e-01 
+V_Ni = 5.808105e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.397423e-01 
+V_YSZ = 1.837158e-02 
+V_Ni = 7.418861e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 1.073341e-01 
+V_YSZ = 2.540932e-01 
+V_Ni = 6.385727e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.396355e-01 
+V_YSZ = 1.217918e-01 
+V_Ni = 6.385727e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.396355e-01 
+V_YSZ = 1.918793e-03 
+V_Ni = 7.584457e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.396355e-01 
+V_YSZ = 1.873016e-03 
+V_Ni = 7.584915e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 1.406746e-01 
+V_YSZ = 1.819038e-01 
+V_Ni = 6.774216e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.388763e-01 
+V_YSZ = 8.370209e-02 
+V_Ni = 6.774216e-01 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 1.216774e-01 
+V_YSZ = 2.009010e-01 
+V_Ni = 6.774216e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 1.216774e-01 
+V_YSZ = 1.174545e-01 
+V_Ni = 7.608681e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 1.147919e-01 
+V_YSZ = 1.168900e-01 
+V_Ni = 7.683182e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 1.147919e-01 
+V_YSZ = 1.168900e-01 
+V_Ni = 7.683182e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 1.200829e-01 
+V_YSZ = 1.168976e-01 
+V_Ni = 7.630196e-01 
+
+SOFC Image properties 
+Total line length in pixels = 1.517935e+05 
+Total line length in micrometers = 4.091310e+03 
+Ni particle numbers = 1933 
+YSZ particle numbers = 1224 
+Ni particle size = 2.439287e+00 
+YSZ particle size = 5.860699e-01 
+
+Surface area of Ni = 1.604164e+00 
+Surface area of YSZ = 9.366932e-01 
+Surface area of Pore = 7.763128e-01 
+
+Surface area of Ni-YSZ interface in micrometers square = 8.822720e-01 
+Surface area of Ni-Pore interface in micrometers square = 7.218916e-01 
+Surface area of YSZ-Pore interface in micrometers square = 5.442119e-02 
+
+ TPB points = 138 
+TPB density in micrometers^-2 = 1.449275e+00 
+
+Average YSZ contact angle in degrees = 1.231147e+02 
+Average Ni contact angle in degrees = 9.736084e+01 
+Average Pore contact angle in degrees = 1.422030e+02 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 2.012711e-01 
+V_YSZ = 7.067375e-01 
+V_Ni = 9.199142e-02 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 2.012711e-01 
+V_YSZ = 3.344421e-01 
+V_Ni = 4.642868e-01 
+
+ Volume fractions after the manual threshold adjustment 
+V_pore = 2.012711e-01 
+V_YSZ = 1.073112e-01 
+V_Ni = 6.914177e-01 
+
+Volume fractions after Otsu,s method 
+V_pore = 2.254295e-01 
+V_YSZ = 3.378716e-01 
+V_Ni = 4.366989e-01 
+
+Volume fractions after the auto threshold adjustment 
+V_pore = 2.409515e-01 
+V_YSZ = 3.223495e-01 
+V_Ni = 4.366989e-01 
+
+Volume fractions after the sweep fill operation 
+V_pore = 2.409515e-01 
+V_YSZ = 9.830856e-02 
+V_Ni = 6.607399e-01 
+
+Volume fractions after erosion and dilation 
+V_pore = 2.358246e-01 
+V_YSZ = 9.878540e-02 
+V_Ni = 6.653900e-01 
+
+SOFC Image properties 
+Total line length in pixels = 1.427051e+05 
+Total line length in micrometers = 3.846348e+03 
+Ni particle numbers = 3828 
+YSZ particle numbers = 1397 
+Ni particle size = 1.002869e+00 
+YSZ particle size = 4.079775e-01 
+
+Surface area of Ni = 3.375916e+00 
+Surface area of YSZ = 1.198347e+00 
+Surface area of Pore = 2.873871e+00 
+
+Surface area of Ni-YSZ interface in micrometers square = 8.501959e-01 
+Surface area of Ni-Pore interface in micrometers square = 2.525720e+00 
+Surface area of YSZ-Pore interface in micrometers square = 3.481514e-01 
+
+ TPB points = 492 
+TPB density in micrometers^-2 = 5.166982e+00 
+
+Average YSZ contact angle in degrees = 1.270233e+02 
+Average Ni contact angle in degrees = 9.528661e+01 
+Average Pore contact angle in degrees = 1.403557e+02 
